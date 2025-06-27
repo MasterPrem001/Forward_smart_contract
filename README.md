@@ -51,6 +51,13 @@ Implements a simple forward contract:
    - `strikePrice` (in USDC units, e.g., 2000 USDC = `2000000000`)
    - `ethAmount` (in wei, e.g., 1 ETH = `1000000000000000000`)
    - `settlementDate` (Unix timestamp)
+6. From  seller's account, he will call depositEther() with 1 ETH.
+
+7. Then from Buyer's account,he will call approve(forward_contract_address, 2000000000) on FakeUSDC.
+
+8. After settlemetDate(60 seconds), Buyer can call executeForward() from His account to execute the contract.
+
+
 
 ---
 

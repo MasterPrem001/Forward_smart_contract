@@ -1,5 +1,3 @@
-# Forward_smart_contract
-a forward smart contract made to exchange eth with fakeusdc token
 # 🤝 ETHForwardWithUSDC – Smart Contract Forward Agreement using FakeUSDC
 
 This project demonstrates a blockchain-based **forward contract** between two parties — a buyer and a seller — to exchange Ether for a stablecoin (FakeUSDC) at a predetermined price and future date.

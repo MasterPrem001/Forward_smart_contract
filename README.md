@@ -97,7 +97,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 **Prem Dubay**  
 Blockchain Developer Intern  
-ABC Engineering College
+Shree LR Tiwari Engineering College
 
 ---
 
